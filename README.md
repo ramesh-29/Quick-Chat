@@ -25,21 +25,21 @@ Model-View-ViewModel (MVVM)
 
 ## Features
 
-**Start:** Login/create account
+**Start:** Login/create account.
 
-**Chats:** List of chats, online status, update on change
+**Chats:** List of chats, online status, update on change.
 
-**Notifications:** Accept/decline friend requests, notifications symbol
+**Notifications:** Accept/decline friend requests, notifications symbol.
 
-**Users:** List of users
+**Users:** List of users.
 
-**Settings:** Change image, change status, logout
+**Settings:** Change image, change status, logout.
 
-**Chat:** Send and show messages sorted by timestamp, online status, custom toolbar, update on change
+**Chat:** Send and show messages sorted by timestamp, online status, custom toolbar, update on change.
 
-**Profile:** Add/remove friend, accept/decline friend request
+**Profile:** Add/remove friend, accept/decline friend request.
 
-**General:** Auto login, bottom navigation, error messages with snackbar, progress bar
+**General:** Auto login, bottom navigation, error messages with snackbar, progress bar.
 
 ## Screenshots
 
