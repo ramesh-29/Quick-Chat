@@ -51,24 +51,5 @@ Model-View-ViewModel (MVVM)
   <img width="250" height="500" src="github_images/create.png"> 
 </p>
 
-### Chats | Notifications | Users
 
-<p align = "left" >
-  <img width="250" height="500" src="github_images/chats.png">
-  <img width="250" height="500"  src="github_images/notifications.png"> 
-  <img width="250" height="500" src="github_images/users.png"> 
-</p>
-
-### Settings | Chat | Profile
-
-<p align = "left" >
-  <img width="250" height="500" src="github_images/settings.png">
-  <img width="250" height="500"  src="github_images/chat.png"> 
-  <img width="250" height="500" src="github_images/profile.png"> 
-</p>
-
-### Firebase
-<p align = "left" >
-  <img  width="378" height="332" src="github_images/db.png"> 
-</p>
 
